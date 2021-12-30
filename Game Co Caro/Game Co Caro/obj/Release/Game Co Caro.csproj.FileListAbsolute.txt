@@ -1,0 +1,10 @@
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\bin\Release\Game Co Caro.exe.config
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\bin\Release\Game Co Caro.exe
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\bin\Release\Game Co Caro.pdb
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Release\Game Co Caro.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Release\Game_Co_Caro.Form1.resources
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Release\Game_Co_Caro.Properties.Resources.resources
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Release\Game Co Caro.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Release\Game Co Caro.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Release\Game Co Caro.exe
+C:\Users\User\Downloads\Game-Co-Caro-master\Game-Co-Caro-master\Game Co Caro\Game Co Caro\obj\Release\Game Co Caro.pdb
